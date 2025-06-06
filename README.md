@@ -9,7 +9,7 @@
 - ⚡ Fun fact about me: I am on the Engineering Advisory Board for Augustana College, IL
 - ⚡ Fun fact: "Google" was initially "Backrub"
 
-
+[![roadmap.sh](https://roadmap.sh/card/tall/68423f15846bd2eeedf0d510?variant=light&roadmaps=backend)](https://roadmap.sh)
 
 <!--
 
