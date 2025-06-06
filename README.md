@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on - AutoLisp Routines for Civil3D
-- 🌱 I’m currently learning - Data Science, Python, Software Engineering, HTML, CSS, React
+- 🔭 I’m currently working on - Systems & Backend Development
+- 🌱 I’m currently learning -Systems Design & Back-End Development
 - 👯 I’m looking to collaborate on - Anything!
 - 🤔 I’m looking for help with - switching into IT from Civil Engineering
 - 💬 Ask me about - My NFT project!
